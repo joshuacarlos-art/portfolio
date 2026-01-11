@@ -2,7 +2,6 @@
 
 import Typewriter from 'typewriter-effect'
 import { motion } from 'framer-motion'
-import Cube from './3D/Cube'
 import { ChevronDown, Mouse } from 'lucide-react'
 
 export default function TypewriterHero() {
@@ -81,7 +80,7 @@ export default function TypewriterHero() {
             transition={{ duration: 1, delay: 0.2 }}
             className="lg:w-1/2 flex justify-center"
           >
-            <Cube size={300} />
+ 
           </motion.div>
         </div>
       </div>

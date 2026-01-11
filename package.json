@@ -23,7 +23,6 @@
     "clsx": "^2.1.1",
     "copy-to-clipboard": "^3.3.3",
     "date-fns": "^4.1.0",
-    "emailjs-com": "^3.2.0",
     "framer-motion": "^12.25.0",
     "lucide-react": "^0.562.0",
     "next": "16.1.1",
@@ -50,5 +49,22 @@
     "@types/react-dom": "^19",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuacarlos-art/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joshuacarlos-art/portfolio/issues"
+  },
+  "homepage": "https://github.com/joshuacarlos-art/portfolio#readme"
 }
