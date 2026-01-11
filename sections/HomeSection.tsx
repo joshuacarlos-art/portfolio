@@ -43,7 +43,7 @@ const SOCIAL_ICONS = [
 ];
 
 const ROLES = [
-  'Full Stack Developer',
+  'Web Developer',
   'React Developer',
   'Next.js Developer',
   
@@ -100,9 +100,7 @@ const ProfileImage = () => {
         ) : (
           <div className="w-full h-full bg-gradient-to-br from-gray-800 to-gray-700 flex items-center justify-center">
             <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-white mb-2">JC</div>
-              <p className="text-gray-300 font-mono text-sm">Developer</p>
-            </div>
+              </div>
           </div>
         )}
         <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
